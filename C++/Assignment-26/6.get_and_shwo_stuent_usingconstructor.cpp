@@ -5,7 +5,7 @@ using namespace std;
 class Student{
     private:
         int roll;
-        char name[20];
+        char name[20];A
     public:
         //Default Construcuor
         Student(){
